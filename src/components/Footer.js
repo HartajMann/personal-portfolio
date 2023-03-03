@@ -13,7 +13,6 @@ function footer() {
         <Email />
         <AddIcCall />
       </div>
-      <p>&copy; 2023 HartajMann.com</p>
     </div>
   );
 }
