@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectItem from "../components/ProjectItem";
-import project1 from "../assets/proj1.jpg";
+//import project1 from "../assets/proj1.jpg";
 import "../styles/projects.css";
 import { projectList } from "../helpers/projectlist";
 
